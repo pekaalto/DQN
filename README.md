@@ -29,7 +29,7 @@ The agent sometimes cuts corners but other than that it can drive flawlessly for
 There are some occasional mistakes though.
 
 ## Running instuctions
-Just clone the repo and use car_runner.py main.
+Just clone the repo and use car_runner_main.py .
 The settings are specified in the beginning of the runner.
 
 You can either train from scratch or load the existing checkpoint
