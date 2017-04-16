@@ -1,5 +1,7 @@
 ![](https://media.giphy.com/media/3og0IEKu84Ros9izyU/giphy.gif)
 
+
+## Info
 This project implements the DQN reinforcement learning agent from
 [Human-level control through deep reinforcement
 learning](http://www.davidqiu.com:8888/research/nature14236.pdf)
@@ -15,7 +17,7 @@ In particular, the network here is much smaller and can be easily trained withou
 The agent learns to drive the car from pixels in a few hours and doesn't need any hand-crafted features.
 There are some minor environment specific tweaks for the car-racing but the base-agent doesn't know about car-racing.
 
-## pre-trained agent
+## Pre-trained agent
 The checkpoint provided in the repo used the default parameters
 specified in the runner/agent and 150000~ playing steps for learning.
 
