@@ -238,7 +238,7 @@ class DQN:
                 if self.global_counter % self.network_update_freq:
                     self.update_target_network()
                 train_cond = (
-                    self.global_counter >= self.min_experience_size and
+                    self.exp_history.counter >= self.min_experience_size and
                     self.global_counter % self.train_freq == 0
                 )
                 if train_cond:
