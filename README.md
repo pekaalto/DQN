@@ -6,7 +6,7 @@ This project implements the DQN reinforcement learning agent from
 [Human-level control through deep reinforcement
 learning](http://www.davidqiu.com:8888/research/nature14236.pdf)
 
-(See also David Silvers RL course [lecture 7](https://www.youtube.com/watch?v=UoPei5o4fps))
+(See also David Silvers RL course [lecture 6](https://www.youtube.com/watch?v=UoPei5o4fps))
 
 The agent is applied to the Open AI gym's [2d-car-racing environment](https://gym.openai.com/envs/CarRacing-v0)
 
