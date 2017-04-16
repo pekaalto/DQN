@@ -36,7 +36,7 @@ You can either train from scratch or load the existing checkpoint
 from this repo and see the agent driving somewhat properly right away.
 Or you can train the provided checkpoint more.
 
-## Dependencies
+## Requirements
 - Python 3.5 (will not work with python 2)
 - OpenAI Gym (the car-racing environment)
 - Tensorflow 1.0.0
